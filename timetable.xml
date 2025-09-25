@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE timeTable SYSTEM "timetable.dtd">
+<timeTable>
+  <complexes>
+    <complex code="C1">
+      <name>Учебный корпус №1</name>
+      <address>ул. Ленина, 10</address>
+    </complex>
+    <complex code="C2">
+      <name>Учебный корпус №2</name>
+      <address>пр. Победы, 25</address>
+    </complex>
+  </complexes>
+  <lessons>
+    <lesson no="101" complex="C1">
+      <date>2023-09-01</date>
+      <time>10:00-11:30</time>
+    </lesson>
+    <lesson no="102" complex="C2">
+      <date>2023-09-01</date>
+      <time>12:00-13:30</time>
+    </lesson>
+  </lessons>
+</timeTable>
